@@ -1,3 +1,5 @@
+Herb & Alchemy Coffee Shop
+
 THEME: Resto - Free Bootstrap Theme
 AUTHOR: uiCookies.com
 AUTHOR URI: https://uiCookies.com/
@@ -47,6 +49,3 @@ http://photoswipe.com/
 
 Isotope
 https://isotope.metafizzy.co/
-
-ImagesLoaded
-https://github.com/desandro/imagesloaded
