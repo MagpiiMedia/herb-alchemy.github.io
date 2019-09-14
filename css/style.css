@@ -302,11 +302,11 @@ a:hover, a:focus, a:active {
   padding-bottom: 0 !important;
   font-size: 30px;
   text-transform: uppercase;
-  background: url(../img/logo.png) no-repeat left top;
+  background: url(../img/HA-logo-c.png) no-repeat left top;
   top: 40px;
   position: relative;
-  width: 117px;
-  height: 40px;
+  width: 295px;
+  height: 30px;
   text-indent: -999999px;
   -webkit-transition: .2s all;
   transition: .2s all;
@@ -328,9 +328,9 @@ a:hover, a:focus, a:active {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .probootstrap-navbar .navbar-brand {
     position: relative;
-    width: 117px;
-    height: 40px;
-    background: url(../img/logo@2x.png) no-repeat left 100%;
+    width: 272px;
+    height: 34px;
+    background: url(../img/HA-logo-c@2x.png) no-repeat left 100%;
     background-size: cover;
   }
 }
@@ -1859,7 +1859,7 @@ section[data-section="menu"] {
 }
 
 .probootstrap-heading .primary-heading {
-  font-family: "Pinyon Script", serif;
+  font-family: "Sorts Mill Goudy", serif;
   color: #FFA33E;
   margin: 0;
   padding: 0;
@@ -1873,6 +1873,7 @@ section[data-section="menu"] {
 }
 
 .probootstrap-heading .secondary-heading {
+  font-family: "Sorts Mill Goudy", serif;
   text-transform: uppercase;
   color: #ffffff;
   margin: 0;
